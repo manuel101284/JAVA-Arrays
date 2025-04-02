@@ -20,7 +20,5 @@ public class Main {
                 System.out.println(" Elemento fila " + (1 + k) + " columna " + (1 + l) + ": " + matriz[k][l]);
             }
         }
-
-
     }
 }
